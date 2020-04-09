@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "main": "./src/server/index.js",
   "scripts": {
-    "start": "ts-node src/server/index.ts",
+    "start": "ts-node src/server/index.ts"
   },
   "dependencies": {
     "@hapi/joi": "17.1.0",
